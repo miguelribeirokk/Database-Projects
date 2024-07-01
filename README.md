@@ -1,4 +1,4 @@
-# Banco-de-Dados
+# Database Projects
 
 ## Trabalhos práticos da disciplina de Banco de Dados
 
